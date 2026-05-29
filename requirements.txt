@@ -1,0 +1,15 @@
+gradio
+langchain
+langchain-groq
+langchain-community
+chromadb
+sentence-transformers
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+networkx
+matplotlib
+PyMuPDF
+python-dotenv
+groq
+
